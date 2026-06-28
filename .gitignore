@@ -1,0 +1,8 @@
+# Python cache and environments
+__pycache__/
+venv/
+*.pyc
+
+
+# Optional: Ignore the Excel file if it contains PII (Personally Identifiable Information)
+# participant_rating_public.xlsx
